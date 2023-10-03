@@ -23,9 +23,6 @@ content="IE-edge">
     <a href="#home">Home</a>
   </li>
   <li>
-    <a href="#booking">Booking</a>
-  </li>
-  <li>
     <a href="#scanscreen">ScanScreen</a>
   </li>
   <li>
@@ -36,12 +33,6 @@ content="IE-edge">
   </li>
   <li>
     <a href="#Contact">Contact</a>
-  </li>
-  <li>
-    <a href="#Sign Up">Sign Up</a>
-  </li>
-  <li>
-    <a href="#Login">Login</a>
   </li>
 </ul>
 <div class="menu-btn">
